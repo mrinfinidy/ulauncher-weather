@@ -2,7 +2,7 @@
   "required_api_version": "^2.0.0",
   "name": "Weather",
   "description": "Shows the current weather in the chosen city (from OpenWeatherMap)",
-  "developer_name": "Fajtak",
+  "developer_name": "afkdev8",
   "icon": "images/icon.png",
   "options": {
     "query_debounce": 0.1
@@ -28,8 +28,14 @@
       "name": "Units",
       "default_value": "metric",
       "options": [
-        { "value": "metric", "text": "Metric" },
-        { "value": "imperial", "text": "Imperial" }
+        {
+          "value": "metric",
+          "text": "Metric"
+        },
+        {
+          "value": "imperial",
+          "text": "Imperial"
+        }
       ]
     },
     {
