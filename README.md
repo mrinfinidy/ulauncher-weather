@@ -29,5 +29,3 @@ If you press Alt+X or enter on the chosen item, you will be redirected to the Op
 Try `w Prague`
 
 I hope you will like this extension. If so, give me a star on github. Do you have any ideas/suggestions what to improve? Please, let me know.
-
-Fajtak
